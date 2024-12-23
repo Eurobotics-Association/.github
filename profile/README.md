@@ -32,6 +32,10 @@ As a non-profit organization, Eurobotics is dedicated to putting technology at t
 - Cybersecurity
 - Drones
 
+## Contacts
+
+eurobotics.association@gmail.com
+
 
 ![EBTX_Banner -2024y](https://github.com/user-attachments/assets/fe12392c-fb14-4463-96b3-caddc57c09ca)
 
