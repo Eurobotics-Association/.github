@@ -1,10 +1,3 @@
-# .github
-Eurobotics Home page
----
-title: "Welcome to Eurobotics"
-date: 2024-12-13
-draft: false
----
 
 ![EBTX_ - Logo-2024](https://github.com/user-attachments/assets/e5e3d4d0-1e24-4a9f-9cac-788d3271fa5d)
 
