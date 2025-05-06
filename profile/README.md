@@ -34,7 +34,11 @@ As a non-profit organization, Eurobotics is dedicated to putting technology at t
 
 ## Contacts
 
-eurobotics.association@gmail.com
+eurobotics.association@gmail.com | contact@eurobotics.org | www.eurobotics.org
+
+Eurobotics - Association Loi 1901 - RNA : W603008100
+Headquarter : Compiègne
+Repair & Training Section : Chantilly / reparation@eurobotics.org 
 
 
 ![EBTX_Banner -2024y](https://github.com/user-attachments/assets/fe12392c-fb14-4463-96b3-caddc57c09ca)
